@@ -1,1 +1,0 @@
-test ecriture Kusanagi 2026-10-04 - fenetre contexte OK
